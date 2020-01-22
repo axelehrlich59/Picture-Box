@@ -1,0 +1,25 @@
+#body {
+    height: 100vh;
+    overflow-x: hidden;
+    font-size: 21px;
+}
+.career{
+    margin-bottom: 50px;
+}
+.experiences {
+    margin-bottom: 60px;
+}
+.senior {
+    margin-top: 50px;
+}
+.img-responsive {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    border: 5px solid #F5F5F5;
+}
+.info {
+    margin-left: 17px;
+}
+
